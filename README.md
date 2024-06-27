@@ -125,7 +125,7 @@ From our experiments, it seems that 'fire' and 'no fire' images are always lassi
 
 Examples of videos annotated by our model can be found below.
 
-<img src="![image](https://github.com/KrishnaveniGarla/forest-fire-detection/assets/170930248/78e9b927-cb55-42f0-ac1b-4ba2f23f0930)" width="350">
+<img src="!(https://github.com/KrishnaveniGarla/forest-fire-detection/assets/170930248/78e9b927-cb55-42f0-ac1b-4ba2f23f0930)" width="350">
 <img src="![image](https://github.com/KrishnaveniGarla/forest-fire-detection/assets/170930248/0814efad-1365-434a-b185-2ce75438eab5)" width="350">
 <img src="![image](https://github.com/KrishnaveniGarla/forest-fire-detection/assets/170930248/5ebaebd7-a04d-4e11-9715-3b9532f4eaaa)" width="350">
 <img src="![image](https://github.com/KrishnaveniGarla/forest-fire-detection/assets/170930248/c8b69ebd-be3b-4762-bc8b-5f35fcd60ebf)" width="350">

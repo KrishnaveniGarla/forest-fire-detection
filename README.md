@@ -125,8 +125,9 @@ From our experiments, it seems that 'fire' and 'no fire' images are always lassi
 
 Examples of videos annotated by our model can be found below.
 
-<img src="https://github.com/Skar0/fire-detection/blob/master/video_examples/video_1.gif" width="350">
-<img src="https://github.com/Skar0/fire-detection/blob/master/video_examples/video_2.gif" width="350">
+<img src="![Uploading video_0.gif…]()
+" width="350">
+<img src="" width="350">
 <img src="https://github.com/Skar0/fire-detection/blob/master/video_examples/video_3.gif" width="350">
 <img src="https://github.com/Skar0/fire-detection/blob/master/video_examples/video_0.gif" width="350">
 
